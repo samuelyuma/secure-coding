@@ -1,5 +1,5 @@
 id,name,email,password,role,verified
-4d824da4-0121-4968-b20e-9baee93e6af5,Super Admin,super-admin@secure.org,password,SUPERADMIN,true
-aa082b93-3b84-4faa-a457-f4fdd2675e91,Admin,executive@secure.org,password,ADMIN,true
-09c4fec9-b77e-430a-9924-45da412d80ed,User1,user1@gmail.com,password,USER,true
-235f7a29-0a34-4020-8070-d7792ea2a6e6,User2,user2@gmail.com,password,USER,false
+671e81446acfb5fcdd5a5316,Super Admin,super-admin@secure.org,password,SUPERADMIN,true
+671e814f8a5be1627daf0283,Admin,executive@secure.org,password,ADMIN,true
+671e81572cfe3e2a0107ce6f,User1,user1@gmail.com,password,USER,true
+671e815dc5851af0524636b0,User2,user2@gmail.com,password,USER,false
